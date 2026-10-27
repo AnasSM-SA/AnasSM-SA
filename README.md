@@ -8,7 +8,7 @@
 
 <p>Nice to meet you!<br> I'm learning programming and exploring machine learning.</p>
 
-# <img src="./kasane-teto-super-mario-world.gif" alt="Teto dancing" width="140" />
+
 
 <h2>What I'm Learning</h2>
 
